@@ -56,7 +56,7 @@ def get_question_datas(title_slug):
 tags = get_tags()
 ranking_list = []
 ranking_list.append("# " + "Leetcode Questions Ranking List  ")
-ranking_list.append("According to this list, we can see which topics are popular.  " )
+ranking_list.append("According to this list, we can see which questions are popular.  " )
 ranking_list.append("Whether you are a student or an interviewer, you can refer to this list when choosing questions.  \n" )
 ranking_list.append("Ranking by Net Profit (Likes - Dislikes).  " )
 ranking_list.append("Grouping by topic.  ")

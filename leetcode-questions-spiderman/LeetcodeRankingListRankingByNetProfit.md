@@ -1,5 +1,5 @@
 # Leetcode Questions Ranking List  
-According to this list, we can see which topics are popular.  
+According to this list, we can see which questions are popular.  
 Whether you are a student or an interviewer, you can refer to this list when choosing questions.  
 
 Ranking by Net Profit (Likes - Dislikes).  
