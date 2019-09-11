@@ -9,10 +9,10 @@ Whether you are a student or an interviewer, you can refer to this list when cho
 
 ## Run
 
-```./LeetCodeQuestionsSpiderMan.py```
+```./leetcode_questions_spiderman.py```
 
 or
 
-```python3 LeetCodeQuestionsSpiderMan.py```
+```python3 leetcode_questions_spiderman.py```
 
 *****
